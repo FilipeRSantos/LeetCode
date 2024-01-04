@@ -1,5 +1,6 @@
 ﻿namespace Solutions;
 
+//https://leetcode.com/problems/merge-sorted-array/
 public static class MergeSortedArray {    
     public static void Run(int[] nums1, int m, int[] nums2, int n) {
         var index1 =  m - 1;

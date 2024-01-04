@@ -1,5 +1,6 @@
 ﻿namespace Solutions;
 
+//https://leetcode.com/problems/two-sum/
 public static class TwoSum {    
     public static int[] Run(int[] nums, int target) {
         var knownValues = new Dictionary<int, int>();
