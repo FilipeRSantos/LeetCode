@@ -1,6 +1,8 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c53171ab_002D59ab_002D490b_002D9957_002D225b22e04668/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0b1fb39c_002Dbd87_002D4d7d_002Da714_002D3fe70accf196/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::F397DB1B-CE34-4ED9-B329-AF03A22EFA2F::net7.0::LeetCode.UnitTest1.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.TwoSumTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.MergeSortedArrayTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.MergeSortedArrayTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
