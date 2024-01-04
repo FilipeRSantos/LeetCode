@@ -1,24 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0b1fb39c_002Dbd87_002D4d7d_002Da714_002D3fe70accf196/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.TwoSumTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.MergeSortedArrayTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.MergeSortedArrayTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.AddTwoNumbersTests.Test1&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=11c160a9_002D2c05_002D463d_002D99f7_002D6e8b775c8958/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddTwoNumbersTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.AddTwoNumbersTests&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5980eaab_002D08d5_002D491f_002D99b5_002D6095647f741f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.AddTwoNumbersTests.Test1&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d98b4dc3_002D8cc3_002D4cd3_002Dac86_002Dff619837642e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddTwoNumbersTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::E9386038-1FC3-4771-B424-AC5DB5C22913::net8.0::Tests.AddTwoNumbersTests&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6d3a7075_002D8f51_002D42f0_002Dac2e_002D383018775354/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
