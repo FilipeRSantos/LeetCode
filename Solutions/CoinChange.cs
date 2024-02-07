@@ -1,11 +1,12 @@
+namespace Solutions;
+
 public static class CoinChange
 {
 
     //https://leetcode.com/problems/coin-change/
     public static int Run(int[] coins, int amount)
     {
-        var minimumCoins = new Dictionary<int, int>();
-        minimumCoins.Add(0, 0);
+        var minimumCoins = new Dictionary<int, int> { { 0, 0 } };
 
         for (var i = 1; i <= amount; i++)
         {

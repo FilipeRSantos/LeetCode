@@ -1,3 +1,5 @@
+using Solutions;
+
 namespace Tests;
 
 public class CoinChangeTests
